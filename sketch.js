@@ -124,7 +124,7 @@ column_3.setCollider('rectangle',0,45,1250,290);
 death_note.setCollider('circle',00,0,100)
 
 column_4.resize(1250,290);
-column_1.debug = true;
+//column_1.debug = true;
 //light.debug = true;
 //chief.debug = true;
 //L.debug = true;
